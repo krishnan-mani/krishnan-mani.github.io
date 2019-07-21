@@ -5,9 +5,9 @@ date:   2019-07-21 21:04:34 +0100
 categories: support-riders
 ---
 
-There are more ways than one to help support a rider on an endurance challenge. I learnt these in a fun, interesting, and challenging ways the three times that I was part of the CREW for cyclists at the [Deccan Cliffhanger][deccan-cliffhanger-cycle-race] starting 2015 (but that is a subject for future posts)
+There are more ways than one to help support a rider on an endurance challenge. I learnt these in fun, interesting, and challenging ways the three times that I was part of the support CREW for cyclists at the [Deccan Cliffhanger][deccan-cliffhanger-cycle-race] starting 2015 (but that is a subject for future posts)
 
-Regardless of how you might contribute, I hope you spend a minute to think about how cancer may have affected you or someone you know, and how we might look forward to a future free of cancer.
+Regardless of how you contribute, I hope you spend a minute to think about how cancer may have affected you or someone you know, and how we might look forward to a future free of cancer.
 
 Here are some ideas:
 
@@ -15,7 +15,7 @@ Here are some ideas:
 1. Raise funds in other ways.
 2. Get me, my bicycle, and the support crew to the [Brands Hatch circuit][brands-hatch-UK-revolve24-2019] (and back).
 3. Cheer me on at the ride, and support me with food, water, and motivation.
-4. Get the word out, and attract more people to help out
+4. Get the word out, and raise awareness.
 5. _"[your idea goes here!]"_
 
 #### Make a donation
