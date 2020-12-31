@@ -1,6 +1,5 @@
 ---
 layout: page
-title: One-page resume
 permalink: /one-page/
 ---
 
